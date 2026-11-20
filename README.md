@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/banner.png" alt="Mise — app mobile de planification de repas pour étudiant·e·s" width="100%">
+</p>
+
 # Mise
 
 Application mobile de planification de repas pour étudiant·e·s : planning de la semaine, liste de courses générée et rangée par rayon, suivi du budget, prix par magasin.
